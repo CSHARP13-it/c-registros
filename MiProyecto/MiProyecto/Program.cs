@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MiProyecto.Properties;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -16,7 +17,7 @@ namespace MiProyecto
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MIFormulario());
+            Application.Run(new frm_numericupdown());
         }
     }
 }

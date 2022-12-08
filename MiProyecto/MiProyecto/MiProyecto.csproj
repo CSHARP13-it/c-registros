@@ -55,6 +55,12 @@
     <Compile Include="frm_encuesta.Designer.cs">
       <DependentUpon>frm_encuesta.cs</DependentUpon>
     </Compile>
+    <Compile Include="frm_trabajandoCombobox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_trabajandoCombobox.Designer.cs">
+      <DependentUpon>frm_trabajandoCombobox.cs</DependentUpon>
+    </Compile>
     <Compile Include="MIFormulario.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -66,14 +72,26 @@
     <EmbeddedResource Include="frm_encuesta.resx">
       <DependentUpon>frm_encuesta.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frm_trabajandoCombobox.resx">
+      <DependentUpon>frm_trabajandoCombobox.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="MIFormulario.resx">
       <DependentUpon>MIFormulario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\frm_numericupdown.resx">
+      <DependentUpon>frm_numericupdown.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <Compile Include="Properties\frm_numericupdown.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties\frm_numericupdown.Designer.cs">
+      <DependentUpon>frm_numericupdown.cs</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>

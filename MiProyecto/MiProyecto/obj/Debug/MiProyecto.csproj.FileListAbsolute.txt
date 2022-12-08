@@ -10,3 +10,5 @@ C:\Users\FGS 8460P\Documents\Grabaciones de sonido\Proyectoscsharp\MiProyecto\Mi
 C:\Users\FGS 8460P\Documents\Grabaciones de sonido\Proyectoscsharp\MiProyecto\MiProyecto\obj\Debug\MiProyecto.pdb
 C:\Users\FGS 8460P\Documents\Grabaciones de sonido\Proyectoscsharp\MiProyecto\MiProyecto\obj\Debug\MiProyecto.MIFormulario.resources
 C:\Users\FGS 8460P\Documents\Grabaciones de sonido\Proyectoscsharp\MiProyecto\MiProyecto\obj\Debug\MiProyecto.frm_encuesta.resources
+C:\Users\FGS 8460P\Documents\Grabaciones de sonido\Proyectoscsharp\MiProyecto\MiProyecto\obj\Debug\MiProyecto.frm_trabajandoCombobox.resources
+C:\Users\FGS 8460P\Documents\Grabaciones de sonido\Proyectoscsharp\MiProyecto\MiProyecto\obj\Debug\MiProyecto.Properties.frm_numericupdown.resources
