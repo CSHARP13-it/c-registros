@@ -17,7 +17,7 @@ namespace MiProyecto
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frm_numericupdown());
+            Application.Run(new frm_tiempo());
         }
     }
 }

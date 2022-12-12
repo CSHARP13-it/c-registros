@@ -76,6 +76,7 @@
             this.txt_resultado.ReadOnly = true;
             this.txt_resultado.Size = new System.Drawing.Size(170, 20);
             this.txt_resultado.TabIndex = 3;
+            this.txt_resultado.TextChanged += new System.EventHandler(this.txt_resultado_TextChanged);
             // 
             // frm_numericupdown
             // 

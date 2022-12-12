@@ -50,5 +50,10 @@ namespace MiProyecto.Properties
             }
             txt_resultado.Text = DiaTexto;
         }
+
+        private void txt_resultado_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
